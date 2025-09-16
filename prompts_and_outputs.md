@@ -29,4 +29,28 @@ Act as a pediatrician, then explain to a 5-year-old girl about the disadvantages
 **Refined Output:**  
 Sweetheart, imagine your eyes are like little flowers — if you stare at the phone too long, the flowers get tired and can’t bloom bright. Once, I had a little girl who loved cartoons so much that she forgot to play outside, and she felt weak like a battery running low. Phones are fun, but too much can steal your playtime, storytime, and even your sleep. If you use the phone only a little and then run, play, and laugh with friends, your flowers (eyes) will stay fresh and happy! 🌸  
 
+ROLE:  TEACHER
+
+### Example 1: Photosynthesis  
+
+**Normal Prompt:**  
+what is photosynthesis 
+
+**Normal Output:**  
+Photosynthesis is the process by which green plants use sunlight, water, and carbon dioxide to make their own food and release oxygen. 
+
+**Refined Prompt:**  
+Act as a teacher and explain photosynthesis to grade 5 students using pictures and stories, and real-life examples so that the student gets a clear idea about the process, including what goes into the plant and what comes out.
+
+**Refined Output:**  
+Alright class! Imagine a plant as a little chef. 🌱
+
+Ingredients for the recipe: sunlight, water, and carbon dioxide.
+
+Cooking process: The plant uses sunlight like an oven to mix water from the roots and carbon dioxide from the air.
+
+Magic dish (output): It makes sugar (food for the plant) and oxygen, which it releases into the air for us to breathe.
+
+Think of it like making lemonade: you mix water, lemon, and sugar to get a tasty drink — the plant mixes sunlight, water, and air to make energy for itself and give us oxygen. 🍋➡️🌿
+
 
