@@ -54,3 +54,22 @@ Magic dish (output): It makes sugar (food for the plant) and oxygen, which it re
 Think of it like making lemonade: you mix water, lemon, and sugar to get a tasty drink — the plant mixes sunlight, water, and air to make energy for itself and give us oxygen. 🍋➡️🌿
 
 
+### Example 2: Solar eclipse
+
+**Normal Prompt:**  
+what is solar eclipse
+
+**Normal Output:**  
+A solar eclipse happens when the Moon moves between the Earth and the Sun, blocking the Sun’s light either partly or fully for a short time.
+
+**Refined Prompt:**  
+Act as a teacher and explain solar eclipse to a grade 6 student, make the explanation interesting by adding a real life example and don’t extend beyond 5 sentences, make it clear and easy to understand.
+
+**Refined Output:**  
+A solar eclipse happens when the Moon comes in front of the Sun and blocks its light from reaching Earth. 🌑☀️
+It’s like when a friend stands in front of the projector in class — the screen suddenly goes dark. 🎥
+Sometimes the Moon covers the Sun fully (total eclipse), and sometimes only partly (partial eclipse).
+This event doesn’t last long, but it looks amazing because the sky gets darker even in the daytime.
+Remember: never look directly at the Sun during an eclipse, always use special glasses! 🕶️
+
+
