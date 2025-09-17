@@ -198,3 +198,126 @@ Day 7 – Active Rest:
 20–30 min walk or light yoga.
 
 
+ROLE:  Chef
+
+### Example 1: Making Masala Pasta  
+
+**Normal Prompt:**  
+Simple and tasty Masala Pasta recipe
+
+**Normal Output:**  
+Masala Pasta Recipe (Indian Style)
+
+Ingredients (for 2 servings):
+
+1 cup pasta (penne/macaroni)
+
+1 medium onion (finely chopped)
+
+1 tomato (chopped/pureed)
+
+½ capsicum (chopped)
+
+1 green chili (optional)
+
+1 tsp ginger-garlic paste
+
+2 tbsp oil or butter
+
+½ tsp cumin seeds
+
+½ tsp turmeric powder
+
+1 tsp red chili powder
+
+1 tsp garam masala
+
+1 tsp coriander powder
+
+2 tbsp tomato ketchup
+
+Salt to taste
+
+Fresh coriander (for garnish)
+
+Steps:
+
+Boil pasta with a little salt and drain. Keep aside.
+
+Heat oil/butter in a pan, add cumin seeds → let them splutter.
+
+Add onion and sauté until golden, then add ginger-garlic paste.
+
+Add tomato, cook till soft → mix in turmeric, chili powder, coriander powder, and garam masala.
+
+Toss in capsicum and cook for 2 minutes.
+
+Add ketchup and boiled pasta, mix well until coated with masala.
+
+Garnish with fresh coriander leaves and serve hot. 🌿🔥
+
+👉 Pro tip: You can also add sweet corn, carrots, or cheese for a twist! 🧀🌽
+
+**Refined Prompt:**  
+Act as an indian chef and teach a grade 10 student how to cook masala pasta in an interesting way so that it will be clear and the kid will be able to follow the instructions very well since he is a beginner. make it simple
+
+**Refined Output:**  
+👨‍🍳 Namaste! Today, I will be your Indian chef teacher, and together we are going to make something super yummy – Masala Pasta. Don’t worry, even if you are a beginner, I’ll make it so simple that you can follow easily.
+
+🍝 Masala Pasta Recipe (Step-by-Step for Beginners)
+
+Ingredients you need:
+
+1 cup pasta (any shape – penne or macaroni works best)
+
+1 onion (chopped)
+
+1 tomato (chopped or pureed)
+
+½ capsicum (chopped)
+
+1 teaspoon ginger-garlic paste
+
+2 tablespoons oil or butter
+
+½ teaspoon cumin seeds (jeera)
+
+A pinch of turmeric (haldi)
+
+1 teaspoon red chili powder (use less if you don’t like spicy)
+
+1 teaspoon garam masala
+
+1 teaspoon coriander powder
+
+2 tablespoons tomato ketchup
+
+Salt (as needed)
+
+Fresh coriander leaves
+
+👩‍🍳 Steps to Cook:
+
+Boil the pasta: Put pasta in hot water with a little salt, cook until soft but not too mushy, then drain the water.
+
+Prepare the masala base: In a pan, heat oil or butter, add cumin seeds → they will start to dance!
+
+Add chopped onion and cook until light golden. Now add ginger-garlic paste and stir.
+
+Add tomato and cook till soft. Put in turmeric, chili powder, coriander powder, and garam masala. Mix well – this is your tasty masala!
+
+Add capsicum (and any other veggies you like) and cook for 2 minutes.
+
+Add tomato ketchup → this gives a sweet-tangy taste.
+
+Now add the boiled pasta and gently mix until every piece is coated with masala.
+
+Garnish with fresh coriander, and your Indian-style masala pasta is ready! 🎉
+
+💡 Chef’s Tip for you (Grade 10 student):
+Think of pasta as your best friend – first you give it a warm bath (boiling), then you dress it up with colorful clothes (masala and veggies). And then, it’s ready to party on your plate! 😋
+
+
+ROLE:  Career Counselor
+
+
