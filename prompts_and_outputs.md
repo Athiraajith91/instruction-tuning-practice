@@ -73,3 +73,128 @@ This event doesn’t last long, but it looks amazing because the sky gets darker
 Remember: never look directly at the Sun during an eclipse, always use special glasses! 🕶️
 
 
+ROLE:  Travel Guide
+
+### Example 1: Pyramids in Giza  
+
+**Normal Prompt:**  
+tell me about pyramids in giza 
+
+**Normal Output:**  
+The Pyramids of Giza are ancient monuments in Egypt built around 4,500 years ago. The largest one, the Great Pyramid, was built for Pharaoh Khufu. They were made as tombs for pharaohs and are considered one of the Seven Wonders of the Ancient World.
+
+**Refined Prompt:**  
+Act as a travel guide and then tell me about the pyramids in Giza, like when it’s being created, the story behind the pyramids, and other important aspects about the pyramids in an entertaining storytelling way to me, who is seeing the pyramids for the very first time. Don’t use too many sentences.
+
+**Refined Output:**  
+Welcome to Giza! Over 4,500 years ago, workers built these giant pyramids as tombs for powerful pharaohs like Khufu, who wanted to live forever with the gods. Imagine thousands of workers pulling heavy stones, stacking them so perfectly that they still stand today! The Great Pyramid was once the tallest structure on Earth, and people believed it connected heaven and earth. Look closely — each block is like a page in Egypt’s story, whispering secrets of kings, gods, and ancient dreams.
+
+
+ROLE:  Environmental Activist
+
+### Example 1: Western Ghats 
+
+**Normal Prompt:**  
+Explain about the Western Ghats and its importance?
+
+**Normal Output:**  
+The Western Ghats are a mountain range along the western side of India. They are important because they are a UNESCO World Heritage Site, rich in biodiversity with many unique plants and animals. They also influence the monsoon rains, support agriculture, and provide water resources to millions of people.
+
+**Refined Prompt:**  
+Act as an environmental activist and explain about the Western Ghats to a grade 10 student, like the importance of biological diversity, why it’s important to protect in the form of a story using 6–7 sentences.
+
+**Refined Output:**  
+Imagine the Western Ghats as a magical green library filled with millions of books, but instead of books, it has rare plants, animals, and forests. 🌿🐅 Many creatures live only here, like the lion-tailed macaque, which cannot survive anywhere else. The forests act like giant sponges, soaking up rain and giving us rivers that feed farms and cities. If we cut too many trees, the “library” starts losing its pages, and the animals lose their homes. Farmers, doctors, and even we students depend on this treasure for food, medicine, and clean air. Protecting the Ghats is like protecting our own life support system. And just like a superhero guards the world, we must guard the Western Ghats for future generations. 🌍✨
+
+
+ROLE:  Fitness Trainer
+
+### Example 1: Workout Plan
+
+**Normal Prompt:**  
+Give me a good workout plan.
+
+**Normal Output:**  
+A good workout plan can include a mix of cardio, strength training, and flexibility exercises. For example:
+
+Day 1: Cardio (running, cycling, or brisk walking for 30 minutes)
+
+Day 2: Strength training (push-ups, squats, lunges, weights)
+
+Day 3: Yoga or stretching for flexibility
+
+Repeat with rest days as needed
+
+This balances fitness, builds strength, and improves overall health.
+
+**Refined Prompt:**  
+Act as my fitness trainer and give me a good workout plan for body toning. I am a beginner and need both gym workouts with equipment and home workouts without equipment if I skip the gym. I need a full week's plan.
+
+**Refined Output:**  
+1-Week Beginner Toning Plan 💪
+
+Day 1 – Gym (Full Body):
+
+Warm-up: 5 min treadmill walk
+
+Squats with dumbbells – 3x12
+
+Lat pulldown – 3x10
+
+Chest press – 3x10
+
+Plank – 3x30 sec
+
+Day 2 – Home (No Equipment):
+
+Warm-up: jumping jacks 3 min
+
+Bodyweight squats – 3x15
+
+Push-ups (on knees if needed) – 3x10
+
+Glute bridges – 3x12
+
+Crunches – 3x15
+
+Day 3 – Gym:
+
+Warm-up: cycling 5 min
+
+Leg press – 3x12
+
+Dumbbell shoulder press – 3x10
+
+Seated row – 3x10
+
+Side planks – 3x20 sec/side
+
+Day 4 – Rest / Light Yoga 🧘
+
+Day 5 – Gym:
+
+Deadlifts with light barbell – 3x10
+
+Bench press (light weight) – 3x10
+
+Leg curls – 3x12
+
+Russian twists – 3x20
+
+Day 6 – Home:
+
+High knees – 2 min
+
+Lunges – 3x12 each leg
+
+Tricep dips (on chair) – 3x10
+
+Superman hold – 3x20 sec
+
+Mountain climbers – 3x20
+
+Day 7 – Active Rest:
+
+20–30 min walk or light yoga.
+
+
