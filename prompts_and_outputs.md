@@ -359,3 +359,25 @@ That night, Ravi decided to be responsible. He packed his bag before going to sl
 ✨ Moral: Responsibility is doing the right things on time. It helps us stay prepared and confident.
 
 
+### Example 11: Kerala History
+
+**Normal Prompt:**  
+Explain Kerala's history
+
+**Normal Output:**  
+Kerala is a state in southwestern India with a rich and ancient history. In ancient times, it was ruled by the Chera dynasty and was famous for its spice trade with the Romans, Arabs, and Chinese. During the medieval period, important kingdoms like Travancore, Cochin, and Calicut emerged, and trade with Europeans began with the Portuguese in the 15th century, followed by the Dutch and British. After India gained independence in 1947, Kerala was formed as a state on 1 November 1956 by merging the Travancore-Cochin and Malabar regions. Today, Kerala is known for its high literacy, progressive social reforms, rich culture, and natural beauty.
+
+**Refined Prompt:**  
+Act as a storyteller and create a moral story for a grade 3 student based on responsibility . The story should be small, clear, and simple so that the kid gets the idea of being responsible in his or her life
+
+**Refined Output:**  
+Story: “Ravi and the School Bag”
+
+Ravi was a cheerful boy in Grade 3. Every evening, his mother reminded him, “Pack your school bag for tomorrow.” But Ravi always said, “I’ll do it in the morning.”
+
+One day, Ravi woke up late. He grabbed his bag and rushed to school. When the teacher asked for his homework, Ravi realized he had left it at home. He felt sad and wished he had listened to his mother.
+
+That night, Ravi decided to be responsible. He packed his bag before going to sleep. The next day, he was ready with his homework, books, and lunch. His teacher smiled and said, “Good job, Ravi! Being responsible makes life easier.”
+
+✨ Moral: Responsibility is doing the right things on time. It helps us stay prepared and confident.
+
