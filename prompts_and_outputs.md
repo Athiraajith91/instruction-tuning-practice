@@ -1,4 +1,4 @@
-ROLE:  PEDIATRICIAN
+ROLE: PEDIATRICIAN
 
 ### Example 1: Importance of Sleeping  
 
@@ -31,7 +31,7 @@ Sweetheart, imagine your eyes are like little flowers — if you stare at the ph
 
 ROLE:  TEACHER
 
-### Example 1: Photosynthesis  
+### Example 3: Photosynthesis  
 
 **Normal Prompt:**  
 what is photosynthesis 
@@ -54,7 +54,7 @@ Magic dish (output): It makes sugar (food for the plant) and oxygen, which it re
 Think of it like making lemonade: you mix water, lemon, and sugar to get a tasty drink — the plant mixes sunlight, water, and air to make energy for itself and give us oxygen. 🍋➡️🌿
 
 
-### Example 2: Solar eclipse
+### Example 4: Solar eclipse
 
 **Normal Prompt:**  
 what is solar eclipse
@@ -75,7 +75,7 @@ Remember: never look directly at the Sun during an eclipse, always use special g
 
 ROLE:  Travel Guide
 
-### Example 1: Pyramids in Giza  
+### Example 5: Pyramids in Giza  
 
 **Normal Prompt:**  
 tell me about pyramids in giza 
@@ -92,7 +92,7 @@ Welcome to Giza! Over 4,500 years ago, workers built these giant pyramids as tom
 
 ROLE:  Environmental Activist
 
-### Example 1: Western Ghats 
+### Example 6: Western Ghats 
 
 **Normal Prompt:**  
 Explain about the Western Ghats and its importance?
@@ -109,7 +109,7 @@ Imagine the Western Ghats as a magical green library filled with millions of boo
 
 ROLE:  Fitness Trainer
 
-### Example 1: Workout Plan
+### Example 7: Workout Plan
 
 **Normal Prompt:**  
 Give me a good workout plan.
@@ -200,7 +200,7 @@ Day 7 – Active Rest:
 
 ROLE:  Chef
 
-### Example 1: Making Masala Pasta  
+### Example 8: Making Masala Pasta  
 
 **Normal Prompt:**  
 Simple and tasty Masala Pasta recipe
@@ -319,5 +319,43 @@ Think of pasta as your best friend – first you give it a warm bath (boiling), 
 
 
 ROLE:  Career Counselor
+
+### Example 9: Time Management
+
+**Normal Prompt:**  
+Explain time management
+
+**Normal Output:**  
+Time management means planning and organizing your time so you can complete tasks effectively. It helps you prioritize important work, avoid stress, and make sure you still have time for rest and fun activities.
+
+**Refined Prompt:**  
+Act as a career counselor and explain time management to a college student, giving 3 practical strategies in a clear and motivating tone
+
+**Refined Output:**  
+Time management is the key to reducing stress and making your college life balanced. First, start each day with a to-do list that highlights your top three priorities. Second, break down big projects into smaller tasks so you don’t feel overwhelmed. Third, set limits on distractions like phone use or social media. With these simple steps, you’ll find yourself more productive and still have time to relax and enjoy your college journey.  
+
+ROLE:  StoryTeller
+
+### Example 10: Taking Responsibility
+
+**Normal Prompt:**  
+Create a moral story for kids
+
+**Normal Output:**  
+Once there was a little rabbit who loved to play but never helped his friends. One day, he needed help when he got stuck in a bush. His friends came and rescued him. The rabbit learned that helping others is important, and from then on, he always shared and cared. The moral of the story is: ‘Help others, and they will help you.’
+
+**Refined Prompt:**  
+Act as a storyteller and create a moral story for a grade 3 student based on responsibility . The story should be small, clear, and simple so that the kid gets the idea of being responsible in his or her life
+
+**Refined Output:**  
+Story: “Ravi and the School Bag”
+
+Ravi was a cheerful boy in Grade 3. Every evening, his mother reminded him, “Pack your school bag for tomorrow.” But Ravi always said, “I’ll do it in the morning.”
+
+One day, Ravi woke up late. He grabbed his bag and rushed to school. When the teacher asked for his homework, Ravi realized he had left it at home. He felt sad and wished he had listened to his mother.
+
+That night, Ravi decided to be responsible. He packed his bag before going to sleep. The next day, he was ready with his homework, books, and lunch. His teacher smiled and said, “Good job, Ravi! Being responsible makes life easier.”
+
+✨ Moral: Responsibility is doing the right things on time. It helps us stay prepared and confident.
 
 
