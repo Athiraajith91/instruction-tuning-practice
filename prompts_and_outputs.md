@@ -383,7 +383,7 @@ That night, Ravi decided to be responsible. He packed his bag before going to sl
 
 ROLE:  Personal daily planner
 
-### Example 10: Daily planner.
+### Example 12: Daily planner.
 
 **Normal Prompt:**  
 Create a daily planner
@@ -495,3 +495,73 @@ Act as a personal daily planner. Create a structured day plan that includes the 
  10:00 PM – Sleep
 
 ✨ Motivation Tip: Focus on small wins. Every box you check is progress! ✅
+
+
+ROLE:  Summary Generation
+
+### Example 13:
+Population is a very interesting topic to learn. There is no denying the fact that the population of any country is a very strong indicator of how exactly the country will function in the future and what its capabilities are as a nation. Leaders of the world pay a lot of attention to their country’s population for the same reason. The population and the skills that they possess are perhaps some of the most essential assets for any country. The following article is an essay on the topic of population and has been structured in a way that students of all ages can learn and understand the key points that they need to mention whenever they are writing an essay like this. 
+
+Brief on Population
+When we talk about a country’s population, we are talking about a lot of things. We are talking about its future workforce, the people that will build the country as a place to live and grow in, we definitely are talking about the future of the entire country. Taking India’s example, when we talk about the population of the country, we are talking about the future of the dream that our freedom fighters dreamt for us as a nation. Together, the entire population of a country has the potential to change the entire landscape of the kinds of work, and jobs that they do. 
+The population of a country is responsible for the economical changes and growth in the country and hence is very important. It is also very important to take care of this population. The population needs the right kind of food, healthy environment to grow in and a great and comfortable lifestyle right from the start. Is that something that is possible for everyone? We all know the answer to this. In a country like India, where income disparities are massive, there is no chance for every single section of the population to have a good lifestyle right from the start that can help them grow as individuals. 
+The same applies for other countries as well. Every country has an income disparity among the people that live in it and this is what makes the topic of population so interesting. We already know that it is the biggest asset that any country can have, but every country must plan and strategize well to take care of this population so that every single need is being fulfilled. This not only helps the country flourish as a whole, but also increases its chances of becoming successful in the future. 
+
+Population Explosion
+The current population of India is around 140 crores. According to certain reports, in the next few years, there will be a solid growth of population in India, and globally too.The population is the total number of human beings living in a city or the country. It allows knowing how much resources are required by this population to fulfil and other plans needed. Year by year, there has been an explosion of population, which is making it difficult to provide resources to every person living in the country. Low literacy, early marriage and demand for family growth are some of the reasons behind the explosion of the population.  India is the primary ground of population explosion. It covers 17% of the population of the world and is the most populated country.
+
+Reasons Behind the Growth of the Population
+There are many reasons for the growth of the population. The low literacy rate is one of the reasons behind this explosion. For example, in India, the literacy rate is relatively low in many states. Many people living in the village fail to complete their education and have less knowledge about birth control. They keep on expanding their family.
+Moreover, they do not carry much knowledge about birth control techniques or medication. This lack of understanding further leads to a population explosion.
+Another primary reason behind the growth of the population is child marriage. The custom of child marriage is still followed in many parts of the country. Parents marry off their daughters at an early age, and at a young age, these girls get pregnant. This process continues for a long time. One of the reasons behind this growth is that there are not strict laws in India, unlike other countries. This also makes it hard for citizens to get an equal share of resources.
+
+ 
+
+Impact of Population Explosion
+Population explosion causes harm, not only to citizens of the country, but also to nature. An increase in population means the need for more space to live, resulting in deforestation. Many cities have lost the green zone to fill it with urban living. Deforestation is leading to the extinction of species and other resources.  Animals are losing their homes, which makes them encroach on cities, taking the lives of people.
+Subsequently, an increase in population is also leading to population. More and more people are buying vehicles for their convenience, which is resulting in pollution. Massive traffic, congestion on roads, and other negative scenes are witnessed in cities.
+Population increase also calls for industrialization, which invites pollution in all areas. A country like India is now witnessing a massive problem of pollution and global warming. Irregular distribution of food to all populations is another significant impact. Many families in rural areas do not get proper food to eat. Many poor kids go to sleep without eating food. This irregular distribution of food is not a scenario only in India, but other developing countries.
+
+How to Control the Population?
+One of the ways to control the population is to educate people about its ill effects on the country's resources. The government, along with NGOs, need to visit every rural area of the country to inform people about population control. Providing birth control kits, education to kids, and monetary benefits to families successful in restricting birth can do the needful.
+
+Conclusion
+We, humans, often forget how we are going to suffer if the population keeps exploding. If the number keeps rising, then it will be difficult to survive. Citizens need to understand the negative impact of the population explosion. Taking the right measures and keeping the resources in mind will help to control the population.
+   
+**Normal Prompt:**  
+Create a summary on the above topic
+
+**Normal Output:**  
+Summary of Essay on Population
+
+Population is one of the most important factors that decides a country’s future growth and development. It represents the nation’s workforce and potential, but at the same time creates challenges when it grows uncontrollably. India, with over 140 crores people, faces a population explosion due to reasons like low literacy, child marriage, and lack of awareness about birth control. This rapid growth leads to problems such as unemployment, food shortages, deforestation, pollution, and unequal distribution of resources. To control the situation, spreading education, stricter laws, awareness campaigns, and providing birth control methods are essential. A balanced population is necessary for the nation’s sustainable progress and better quality of life.
+
+**Refined Prompt:**  
+Create a simple summary of the above topic for a grade 8 student, focusing on the reason behind the population explosion, the impact of the population explosion, and how to control the population explosion. Summary should include 12 sentences.
+
+**Refined Output:**  
+Summary: Population Explosion
+
+Population means the total number of people living in a country.
+
+In India, the population is growing very fast, and this is called a population explosion.
+
+One reason is low literacy; many people are not aware of family planning.
+
+Another reason is child marriage, where girls marry early and have children at a young age.
+
+Lack of strict laws and poor knowledge about birth control also increase population growth.
+
+This rapid growth causes many problems for the country.
+
+More people means more houses and land, which leads to deforestation.
+
+It also causes pollution, traffic, and overcrowding in cities.
+
+Many families, especially in villages, do not get enough food to eat.
+
+The population explosion also creates unemployment and makes resources unequal.
+
+To control it, people need to be educated about family planning and the problems of overpopulation.
+
+The government and NGOs should spread awareness, provide birth control kits, and encourage small families.
