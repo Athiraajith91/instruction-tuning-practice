@@ -565,3 +565,5 @@ The population explosion also creates unemployment and makes resources unequal.
 To control it, people need to be educated about family planning and the problems of overpopulation.
 
 The government and NGOs should spread awareness, provide birth control kits, and encourage small families.
+
+
