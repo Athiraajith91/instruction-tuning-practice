@@ -567,3 +567,18 @@ To control it, people need to be educated about family planning and the problems
 The government and NGOs should spread awareness, provide birth control kits, and encourage small families.
 
 
+ROLE:  Coding Instructor
+
+### Example 14: Coding concept loop
+
+**Normal Prompt:**  
+Explain loops in coding.
+
+**Normal Output:**  
+A loop in coding is a way to repeat a set of instructions multiple times without writing the same code again. For example, if you want a computer to count from 1 to 10, you can use a loop instead of writing 10 separate commands.
+
+**Refined Prompt:**  
+Act as a coding instructor and explain the concept of loop in coding for a grade 4 student who is a beginner, use real life example. Make it simple and clear so that make the kid interested in coding.
+
+**Refined Output:**  
+Imagine you have to clap your hands 5 times. Instead of saying ‘clap once, clap twice, clap three times…’ every time, you just say, ‘Clap 5 times.’ That’s what a loop does in coding — it repeats the same action for you. For example, in coding, if you want a robot to say ‘Hello’ 10 times, you don’t have to write ‘Hello’ again and again — you just use a loop, and the computer repeats it automatically. Loops help us save time and make coding easier and more fun!
