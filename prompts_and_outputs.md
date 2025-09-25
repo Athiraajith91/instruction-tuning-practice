@@ -381,3 +381,117 @@ That night, Ravi decided to be responsible. He packed his bag before going to sl
 
 ✨ Moral: Responsibility is doing the right things on time. It helps us stay prepared and confident.
 
+ROLE:  Personal daily planner
+
+### Example 10: Daily planner.
+
+**Normal Prompt:**  
+Create a daily planner
+
+**Normal Output:**  
+Daily Planner
+Morning Routine
+
+Wake up and freshen up
+
+Exercise / Stretch
+
+Have breakfast
+
+Review today’s goals
+
+Work / Study Tasks
+
+Task 1: ____________
+
+Task 2: ____________
+
+Task 3: ____________
+
+Breaks
+
+Lunch / Relax
+
+Short walk or rest
+
+Afternoon Focus
+
+Task 4: ____________
+
+Task 5: ____________
+
+Evening Routine
+
+Hobby / Exercise
+
+Family or friend time
+
+Dinner
+
+Night Reflection
+
+Read / Relax
+
+Write 3 good things from today
+
+Plan tomorrow’s top 3 tasks
+
+Sleep well
+
+**Refined Prompt:**  
+Act as a personal daily planner. Create a structured day plan that includes the following components: Morning routine, Work/Study tasks, Breaks, Afternoon focus, Evening routine, and Night reflection. Format the output clearly with checkboxes or time blocks to make it easy to follow. Keep it simple, organized, and motivating.
+
+**Refined Output:**  
+🌞 Daily Planner
+
+📅 Date: ____________
+
+🌅 Morning Routine
+
+ 7:00 AM – Wake up & freshen up
+
+ 7:30 AM – Stretch / Exercise (15–20 mins)
+
+ 8:00 AM – Healthy breakfast
+
+ 8:30 AM – Quick review of today’s top 3 goals
+
+📚 Work / Study Tasks
+
+ 9:00 AM – Task 1: ___________________
+
+ 10:00 AM – Task 2: ___________________
+
+ 11:00 AM – Task 3: ___________________
+
+☕ Break
+
+ 12:00 PM – Lunch & short rest
+
+🌞 Afternoon Focus
+
+ 1:00 PM – Task 4: ___________________
+
+ 2:30 PM – Task 5: ___________________
+
+ 3:30 PM – Review progress / wrap up work
+
+🌇 Evening Routine
+
+ 5:00 PM – Walk, hobby, or light workout
+
+ 6:00 PM – Family/friend time
+
+ 7:00 PM – Dinner
+
+🌙 Night Reflection
+
+ 8:00 PM – Reading / Relaxing activity
+
+ 9:00 PM – Write 3 good things about today
+
+ 9:30 PM – Plan tomorrow’s top tasks
+
+ 10:00 PM – Sleep
+
+✨ Motivation Tip: Focus on small wins. Every box you check is progress! ✅
