@@ -582,3 +582,51 @@ Act as a coding instructor and explain the concept of loop in coding for a grade
 
 **Refined Output:**  
 Imagine you have to clap your hands 5 times. Instead of saying ‘clap once, clap twice, clap three times…’ every time, you just say, ‘Clap 5 times.’ That’s what a loop does in coding — it repeats the same action for you. For example, in coding, if you want a robot to say ‘Hello’ 10 times, you don’t have to write ‘Hello’ again and again — you just use a loop, and the computer repeats it automatically. Loops help us save time and make coding easier and more fun!
+
+
+### Example 15: Coding concept functions
+
+**Normal Prompt:**  
+What is the function in coding
+
+**Normal Output:**  
+A function in coding is a named block of code that performs a specific task.
+Instead of writing the same instructions multiple times, you put them in a function and reuse it whenever needed.
+Functions can take inputs (parameters) and give outputs (return values).
+
+**Refined Prompt:**  
+Act as a coding instructor, then explain the concept of functions in coding for a grade 5 student in simple words, with real real-time example also make use of a simple example of Hello World printing in JavaScript
+
+**Refined Output:**  
+Understanding Functions (Simple Explanation)
+
+Imagine: You have a robot at home. Every time you want it to turn on the lights, you could tell it “Turn on the lights” every single time.
+But instead, you can teach the robot a command called turnOnLights, so whenever you say that, it will do the job automatically.
+In coding, a function is just like that command — a named set of instructions you can use again and again.
+
+Real-Time Example
+Think of a function like a toaster:
+You put bread in, press the button (call the function), and it makes toast (output).
+Every time you want toast, you don’t have to explain the whole process again — just call the function!
+
+// Step 1: Define the function
+function sayHello() {
+    console.log("Hello, world!");
+}
+
+// Step 2: Call the function
+sayHello();  // Output: Hello, world!
+sayHello();  // Output: Hello, world! (can call again)
+
+✅ Explanation:
+
+function sayHello() → This creates the function named sayHello.
+Inside { } → The instructions the function will do.
+console.log("Hello, world!"); → This prints the message to the screen.
+sayHello(); → This calls the function, making it do its job.
+
+Key Takeaways for Grade 5:
+
+A function is a reusable command.
+You define it once and use it many times.
+Functions make coding easier, cleaner, and faster.
